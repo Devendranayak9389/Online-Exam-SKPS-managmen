@@ -1,4 +1,4 @@
-# Shri Krishan Pratiyogita Samiti (Online Examination System)
+# SKPS (Online Examination System)
 
 > Welcome to **Shri Krishan Pratiyogita Samiti**, an Online Examination System! 
 >
@@ -14,8 +14,8 @@
 
 > WireFrame (Low Fidelity): *[Shri Krishan Pratiyogita Samiti Low Fidelity Wireframe](https://www.figma.com/file/rZtAktJIOZy6xCmXXaxfJi/EvaluTest-Low-Fidelity-Wireframe?node-id=5%3A157&t=dgnH1gZjuwAEjkhG-1)*  
 
-> Website Link: *[Shri Krishan Pratiyogita Samiti Official Website](https://evalutest.000webhostapp.com//)*  
+> Website Link: *[Shri Krishan Pratiyogita Samiti Official Website]([https://evalutest.000webhostapp.com//](https://shrikrishanpratiyogita-2025.web.app/))*  
 
-[![EvaluTest Login Page](/assets/images/login.png)](http://evalutest.infinityfreeapp.com/)  
+[![SKPS Login Page](/assets/images/login.png)](http://skps.infinityfreeapp.com/)  
 
-[![EvaluTest Home Page](/assets/images/home-page.png)](http://evalutest.infinityfreeapp.com/)  
+[![SKPS Home Page](/assets/images/home-page.png)](http://SKPS.infinityfreeapp.com/)  
