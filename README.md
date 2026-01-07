@@ -1,6 +1,6 @@
-# EvaluTest (Online Examination System)
+# Shri Krishan Pratiyogita Samiti (Online Examination System)
 
-> Welcome to **EvaluTest**, an Online Examination System! 
+> Welcome to **Shri Krishan Pratiyogita Samiti**, an Online Examination System! 
 >
 > Get ready to put your knowledge to the test and showcase your skills! Remember that this is an opportunity for you to shine and demonstrate all that you have learned. Put your best foot forward and aim for success!
 >
@@ -10,11 +10,11 @@
 >
 > Our system is designed to meet the highest standards of security and integrity, ensuring a fair and reliable assessment of your knowledge and skills.
 
-> WireFrame (High Fidelity): *[EvaluTest High Fidelity Wireframe](https://www.figma.com/file/bjoKScVZfMU4yJmV76Cbnp/EvaluTest-High-Fidelity-Wireframe?node-id=3%3A14&t=gU5f9zy0ZAV31Lrq-1)*  
+> WireFrame (High Fidelity): *[Shri Krishan Pratiyogita Samiti High Fidelity Wireframe](https://www.figma.com/file/bjoKScVZfMU4yJmV76Cbnp/EvaluTest-High-Fidelity-Wireframe?node-id=3%3A14&t=gU5f9zy0ZAV31Lrq-1)*  
 
-> WireFrame (Low Fidelity): *[EvaluTest Low Fidelity Wireframe](https://www.figma.com/file/rZtAktJIOZy6xCmXXaxfJi/EvaluTest-Low-Fidelity-Wireframe?node-id=5%3A157&t=dgnH1gZjuwAEjkhG-1)*  
+> WireFrame (Low Fidelity): *[Shri Krishan Pratiyogita Samiti Low Fidelity Wireframe](https://www.figma.com/file/rZtAktJIOZy6xCmXXaxfJi/EvaluTest-Low-Fidelity-Wireframe?node-id=5%3A157&t=dgnH1gZjuwAEjkhG-1)*  
 
-> Website Link: *[EvaluTest Official Website](https://evalutest.000webhostapp.com//)*  
+> Website Link: *[Shri Krishan Pratiyogita Samiti Official Website](https://evalutest.000webhostapp.com//)*  
 
 [![EvaluTest Login Page](/assets/images/login.png)](http://evalutest.infinityfreeapp.com/)  
 
